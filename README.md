@@ -8,6 +8,6 @@
 | - M01_EjPrimos | - M02_SocketServer |
 | - ~~EjVideojuego~~ | - M02_RestVideojuego |
 | | - M02_CrudVideojuego |
-| | - ~~EjHash~~ |
+| | - M02_HashJava |
 
 
