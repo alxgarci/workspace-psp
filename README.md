@@ -7,7 +7,7 @@
 | - M01_EjCasa | - M02_SocketClient |
 | - M01_EjPrimos | - M02_SocketServer |
 | - ~~EjVideojuego~~ | - M02_RestVideojuego |
-| | - ~~M02_CrudVideojuego (SIN ACABAR)~~ |
+| | - M02_CrudVideojuego |
 | | - ~~EjHash~~ |
 
 

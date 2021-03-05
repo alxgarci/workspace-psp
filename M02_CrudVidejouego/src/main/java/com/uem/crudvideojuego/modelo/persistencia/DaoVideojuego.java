@@ -58,6 +58,9 @@ public class DaoVideojuego {
 	public Videojuego updateById(Videojuego vUpd) {
 		Videojuego v = selectById(vUpd.getId());
 		if (v != null) {
+			v.setComp(vUpd.getComp());
+			v.setPrecio(vUpd.getPrecio());
+			v.setPuntuacion(vUpd.getPuntuacion());
 			v.setNombre("MODIFICADO");
 		}
 		return v;
